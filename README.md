@@ -8,7 +8,7 @@
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/Pglol03/Horizon?style=social&logo=github)](https://github.com/Pglol03/Horizon/commits)
 [![Pull requests](https://img.shields.io/github/issues-pr/Pglol03/Horizon?style=social&logo=github)](https://github.com/Pglol03/Horizon/pulls)
 
-![demo](https://i.ibb.co/Qm9fb95/nextjs14-Horizon-vercel-app-1.png)
+![demo](https://github.com/Pglol03/horizon/blob/main/public/assets/images/Screenshot%202024-04-25%20at%2011.36.21%E2%80%AFPM.png)
 
 [![Pglol03](https://custom-icon-badges.demolab.com/badge/made%20by%20-Pglol03-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/Pglol03)
 [![License](https://img.shields.io/github/license/Pglol03/Horizon?color=dddddd&labelColor=000000)](https://github.com/Pglol03/Horizon/blob/main/LICENSE)
