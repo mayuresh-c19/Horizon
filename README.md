@@ -10,7 +10,7 @@
 
 ![demo](https://i.ibb.co/Qm9fb95/nextjs14-Horizon-vercel-app-1.png)
 
-[![Pglol03](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/Pglol03)
+[![Pglol03](https://custom-icon-badges.demolab.com/badge/made%20by%20-Pglol03-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/Pglol03)
 [![License](https://img.shields.io/github/license/Pglol03/Horizon?color=dddddd&labelColor=000000)](https://github.com/Pglol03/Horizon/blob/main/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/Pglol03/Horizon?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
 [![Contributors](https://img.shields.io/github/contributors/Pglol03/Horizon?style=flat&color=orange&label=Contributors)](https://github.com/Pglol03/Horizon/graphs/contributors)
