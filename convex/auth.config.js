@@ -1,8 +1,8 @@
 export default {
-    providers:[
-        {
-            domain: "https://hip-moth-15.clerk.accounts.dev",
-            applicationID: "convex",
-        }
-    ]
-}
+  providers: [
+    {
+      domain: "https://lenient-toucan-8.clerk.accounts.dev",
+      applicationID: "convex",
+    },
+  ],
+};
